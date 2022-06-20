@@ -1,4 +1,5 @@
-# Hello there 👋 👋 
+#
+Hello there 👋 👋 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/98591620/174611974-ed28777f-02da-4f43-a889-c4027b591384.gif"/>
@@ -8,7 +9,8 @@
 </br>
 </br>
 
-# About me 💬 :
+#
+ About me 💬 :
 
 ### Machine learning & ~~Laziness specialist~~
 
