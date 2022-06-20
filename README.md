@@ -77,8 +77,11 @@
 
    If you want to reach out to me about anything, just ping me 😉.
      
-  <a href="www.linkedin.com/in/kévin-hang-phoking-hangsome" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Phoking" hight="50" width="100" /></a>
-  <a href="mailto:Herezy2006@gmail.com">
+  <a href="www.linkedin.com/in/kévin-hang-phoking-hangsome" target="blank">
+    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"         alt="Phoking" hight="50" width="100" />
+  </a>
+ 
+ <a href="mailto:Herezy2006@gmail.com">
   <img align="right" alt="Gmail" width="130" hight="100" src="https://user-images.githubusercontent.com/98591620/174640860-82195bd8-8bdc-4c28-96d1-b6081cd9857c.svg" />
   </a>
 
