@@ -97,5 +97,5 @@
   <p align="right" >  
     <a href="https://github.com/Haloriginee/github-readme-stats"> <img width="372" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&&show_icons=true&theme=radical"/></a>
   </p>
- 
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haloriginee" alt="Haloriginee" /></a> </p>
 </p>
