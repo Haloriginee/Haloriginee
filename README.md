@@ -88,7 +88,7 @@
 </br>
  
   <p align="right" >  
-    <a href="https://github.com/Haloriginee/github-readme-stats"> <img width="500" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&&show_icons=true&theme=radical"/></a>
+    <a href="https://github.com/Haloriginee/github-readme-stats"> <img width="350" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&&show_icons=true&theme=radical"/></a>
   </p>
  
 </p>
