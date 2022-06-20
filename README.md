@@ -73,9 +73,9 @@
 <p>
   </br>
   
-   <img hight="300" width="450" align="left" alt="GIF" src="https://user-images.githubusercontent.com/98591620/174634613-5df2c5c5-aca7-44be-bc90-5016c1568a80.gif">
+   <img hight="280" width="450" align="left" alt="GIF" src="https://user-images.githubusercontent.com/98591620/174634613-5df2c5c5-aca7-44be-bc90-5016c1568a80.gif">
 
-   If you want to reach out to me about anything, just ping me 😉.
+    If you want to reach out to me about anything, just ping me 😉.
      
   <a href="www.linkedin.com/in/kévin-hang-phoking-hangsome" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Phoking" hight="50" width="100" /></a>
   <a href="mailto:Herezy2006@gmail.com">
