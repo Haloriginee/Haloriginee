@@ -73,7 +73,7 @@
 <p>
   </br>
   
-   <img hight="320" width="450" align="left" alt="GIF" src="https://user-images.githubusercontent.com/98591620/174634613-5df2c5c5-aca7-44be-bc90-5016c1568a80.gif">
+   <img hight="300" width="450" align="left" alt="GIF" src="https://user-images.githubusercontent.com/98591620/174634613-5df2c5c5-aca7-44be-bc90-5016c1568a80.gif">
 
    If you want to reach out to me about anything, just ping me 😉.
      
@@ -95,7 +95,7 @@
 </br>
  
   <p align="right" >  
-    <a href="https://github.com/Haloriginee/github-readme-stats"> <img width="375" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&&show_icons=true&theme=radical"/></a>
+    <a href="https://github.com/Haloriginee/github-readme-stats"> <img width="372" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&&show_icons=true&theme=radical"/></a>
   </p>
  
 </p>
