@@ -12,7 +12,7 @@
 
 ### Machine learning & ~~Laziness specialist~~
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/98591620/174623192-5e99865d-0c46-4715-b485-d32be9c4582e.gif">
+<img hight="300" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/98591620/174623192-5e99865d-0c46-4715-b485-d32be9c4582e.gif">
 
 ### - Learning :
 - ✨ Ruby on Rails cause its never enough
