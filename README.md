@@ -18,6 +18,7 @@
 ### - Learning :
 - ✨ ~~Ruby on Rails cause its never enough~~
 - ✨ Javascrypt (three.JS atm) 
+- ✨ MERN Stack
 
 ### - Hobbies : 
 - ✨ Gaming Addict
