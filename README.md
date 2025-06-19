@@ -61,7 +61,7 @@
 
   </br>
   
-  <table>
+ <table>
   <tr>
     <td width="50%">
       <img height="300" width="450" align="left" alt="GIF" src="https://user-images.githubusercontent.com/98591620/174634613-5df2c5c5-aca7-44be-bc90-5016c1568a80.gif">
@@ -81,6 +81,7 @@
     </td>
   </tr>
 </table>
+
 
 
 </br>
