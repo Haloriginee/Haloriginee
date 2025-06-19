@@ -6,6 +6,8 @@
   </a>
 </div>
 
+</br>
+
 # About me 💬 :
 
 ### Machine learning & ~~Slacker specialist~~
@@ -22,6 +24,8 @@
 - 🎮 Gaming Addict
 - 🏊‍♂️ Swimming
 - ⚠️ ~~Error Message~~
+
+</br>
 
 # Tools 👨‍💻 🛠:
 </br>
