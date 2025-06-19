@@ -8,7 +8,7 @@
 
 </br>
 
-# About me 💬 :
+# About me 💬:
 
 ### Machine learning & ~~Slacker specialist~~
 
@@ -71,7 +71,7 @@
 
 </br>
 
-# 📊 GitHub Stats
+# GitHub Stats 📊:
  
 <div align="center">
 
