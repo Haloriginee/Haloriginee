@@ -68,7 +68,7 @@
 <ul align="center">
      
   <a href="https://www.linkedin.com/in/k%C3%A9vin-hang/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"         alt="phoking" hight="50" width="100" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"         alt="phoking" hight="100" width="100" />
   </a>
  
  <a href="mailto:Herezy2006@gmail.com">
