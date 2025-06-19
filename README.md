@@ -74,13 +74,17 @@
 </br>
 
  
-  <p align="right" >  
-    <a href="https://github.com/Haloriginee/github-readme-stats"> <img width="372" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&&show_icons=true&theme=radical"/></a>
-  </p>
-  
-</br>
-</br>
-</br>
-
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Haloriginee" alt="Haloriginee" /></a> </p>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Haloriginee/github-readme-stats">
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="400" src="https://github-profile-trophy.vercel.app/?username=Haloriginee&margin-w=10&theme=radical" alt="Trophies" />
+      </a>
+    </td>
+  </tr>
+</table>
