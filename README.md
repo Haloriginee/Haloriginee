@@ -73,7 +73,7 @@
 
 </br>
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
  
 <table>
   <tr>
