@@ -92,8 +92,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haloriginee&layout=compact&theme=radical&card_width=300" alt="Top Languages" />
     </td>
   </tr>
-</table>
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=haloriginee&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+</table>
 </div>
