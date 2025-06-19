@@ -84,7 +84,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="400" src="https://github-profile-trophy.vercel.app/?username=Haloriginee&margin-w=10&theme=radical" alt="Trophies" />
+        <img width="800" src="https://github-profile-trophy.vercel.app/?username=Haloriginee&margin-w=10&theme=radical" alt="Trophies" />
       </a>
     </td>
   </tr>
