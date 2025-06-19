@@ -86,6 +86,8 @@
   <a href="https://github.com/Haloriginee/github-readme-stats">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
   
   <br>
   
