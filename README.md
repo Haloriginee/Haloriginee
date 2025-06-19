@@ -61,21 +61,27 @@
 
   </br>
   
-   <img hight="300" width="450" align="left" alt="GIF" src="https://user-images.githubusercontent.com/98591620/174634613-5df2c5c5-aca7-44be-bc90-5016c1568a80.gif">
+  <table>
+  <tr>
+    <td width="50%">
+      <img height="300" width="450" align="left" alt="GIF" src="https://user-images.githubusercontent.com/98591620/174634613-5df2c5c5-aca7-44be-bc90-5016c1568a80.gif">
+    </td>
+    <td align="center">
+      <p>If you want to reach out to me about anything, just ping me 😉.</p>
+      <br />
+      <a href="https://www.linkedin.com/in/k%C3%A9vin-hang/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+             alt="LinkedIn" width="60" height="60" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="mailto:Herezy2006@gmail.com">
+        <img alt="Gmail" width="60" height="60" 
+             src="https://user-images.githubusercontent.com/98591620/174640860-82195bd8-8bdc-4c28-96d1-b6081cd9857c.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-   If you want to reach out to me about anything, just ping me 😉.
-
-<ul align="center">
-     
-  <a href="https://www.linkedin.com/in/k%C3%A9vin-hang/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"         alt="phoking" hight="100" width="100" />
-  </a>
- 
- <a href="mailto:Herezy2006@gmail.com">
-  <img alt="Gmail" width="100" hight="100" src="https://user-images.githubusercontent.com/98591620/174640860-82195bd8-8bdc-4c28-96d1-b6081cd9857c.svg" />
-  </a>
-
-  </ul>
 
 </br>
 </br>
