@@ -15,10 +15,9 @@
 <img hight="300" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/98591620/174623192-5e99865d-0c46-4715-b485-d32be9c4582e.gif">
 
 ### - Learning :
-- ✅ ~~Ruby on Rails cause its never enough~~
-- ✅ Javascrypt (three.JS atm) 
-- ✅ MERN Stack
-- ✨ Golang
+- ✨ Python
+- ✨ TensorFlow
+- ✨ Pytorch
 
 ### - Hobbies : 
 - 🎮 Gaming Addict
@@ -45,6 +44,13 @@
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+  </br>
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 </ul>
 
