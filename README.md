@@ -83,11 +83,9 @@
  
 <div align="center">
 
-  <a href="https://github.com/Haloriginee/github-readme-stats">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <br>
-[![trophy](https://github-profile-trophy.vercel.app/?haloriginee=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haloriginee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haloriginee&layout=compact&theme=radical)
 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=haloriginee&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
