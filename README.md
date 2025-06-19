@@ -69,15 +69,11 @@
     <td align="center">
       <p>If you want to reach out to me about anything, just ping me 😉.</p>
       <br />
-      <a href="https://www.linkedin.com/in/k%C3%A9vin-hang/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-             alt="LinkedIn" width="60" height="60" />
-      </a>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="mailto:Herezy2006@gmail.com">
-        <img alt="Gmail" width="60" height="60" 
-             src="https://user-images.githubusercontent.com/98591620/174640860-82195bd8-8bdc-4c28-96d1-b6081cd9857c.svg" />
-      </a>
+    ## 📇 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kévin_Hang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A9vin-hang/)
+[![Gmail](https://img.shields.io/badge/Gmail-Herezy2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Herezy2006@gmail.com)
+
     </td>
   </tr>
 </table>
