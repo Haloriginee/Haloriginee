@@ -74,7 +74,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kévin_Hang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k%C3%A9vin-hang/)
 [![Gmail](https://img.shields.io/badge/Gmail-Herezy2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Herezy2006@gmail.com)
 
-    </td>
   </tr>
 </table>
 
