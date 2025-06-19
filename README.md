@@ -87,8 +87,7 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=Haloriginee&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
   <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Haloriginee&margin-w=10&theme=radical" alt="Trophies" />
-  </a>
+[![trophy](https://github-profile-trophy.vercel.app/?haloriginee=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
