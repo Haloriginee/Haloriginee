@@ -50,7 +50,7 @@
 
 </br>
 
-# Contact Me :
+# Contact:
 
   </br>
   
