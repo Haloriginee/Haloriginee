@@ -6,6 +6,8 @@
   </a>
 </div>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hangkevinv5.netlify.app/)
+
 </br>
 
 # About me 💬:
@@ -16,8 +18,8 @@
 
 ### - Learning :
 - ✨ Python
-- ✨ TensorFlow
 - ✨ Pytorch
+- ✨ TensorFlow
 
 ### - Hobbies : 
 - 🎮 Gaming Addict
