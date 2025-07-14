@@ -8,7 +8,7 @@
 
 </br>
 
-# About me 💬:
+# Let's be Friend 💬:
 
 ### Machine learning & ~~Slacker specialist~~
 
@@ -59,7 +59,7 @@
 
 </br>
 
-# Contact 📬:
+# Are we Friend yet ? 📬:
 
   </br>
   
