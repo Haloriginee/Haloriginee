@@ -8,7 +8,7 @@
 
 </br>
 
-# Let's be Friend 💬:
+# Let's be Friend... 💬:
 
 ### Machine learning & ~~Slacker specialist~~
 
